@@ -11,6 +11,6 @@
             <ColumnDefinition Width="7*"/>
             <ColumnDefinition Width="785*"/>
         </Grid.ColumnDefinitions>
-        <Button Content="안녕? 헬로우 월드. 유진희!" Grid.Column="1" HorizontalAlignment="Left" Margin="223,119,0,0" VerticalAlignment="Top" Width="345" Height="153"/>
+        <Button Content="안녕? 헬로우 월드. 유진희!" Grid.Column="1" HorizontalAlignment="Left" Margin="223,119,0,0" VerticalAlignment="Top" Width="345" Height="153" Background="#FFF74C4C" Foreground="White"/>
     </Grid>
 </Window>
